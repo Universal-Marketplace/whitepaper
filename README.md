@@ -14,6 +14,7 @@ Features:
 - Specific storefronts that interface with the platform's WebAPI to display their native pages.
 - Library for all assets owned on all platforms.
 - Progressive API that allows platforms to continue to inject their own interests into the marketplace. If controversial or undesireable can be appealed by sellers/developers.
-- Direct platform communication hub for requests and Sellers have control over how the Each platform has its own repository in this organisation.
+- Direct platform communication hub for requests and communication with the platform
+- Each platform has its own repository in this organisation.
 - Templates for graphics that are both universal for the marketplace and specific to the platform.
 - Plugins can be developed to extend on Marketplace functionality.
