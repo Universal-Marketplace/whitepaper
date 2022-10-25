@@ -17,3 +17,4 @@ Features:
 - Direct platform communication hub for requests and communication with the platform
 - Templates for graphics that are both universal for the marketplace and specific to the platform.
 - Plugins can be developed to extend on Marketplace functionality.
+- Store Editor that pushes to all platforms with one-click
